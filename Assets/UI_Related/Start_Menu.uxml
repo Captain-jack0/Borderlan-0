@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:TextField picking-mode="Ignore" value="2" name="VisaDay" style="position: absolute; top: 16px; left: 832px; font-size: 30px; height: 55px; width: 49px; -unity-background-image-tint-color: rgb(56, 56, 56); background-color: rgba(56, 56, 56, 0); opacity: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
